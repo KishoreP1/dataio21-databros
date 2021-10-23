@@ -1,3 +1,3 @@
 Data.io 2021
 
-Adam Gluck, Kishore Prakesh, Sam Reichman, Akhil Demarla
+Adam Gluck, Kishore Prakesh, Sam Reichman, Akhil Damarla
